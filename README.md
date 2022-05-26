@@ -6,3 +6,5 @@
   * 1 x motor drives arm for object placement
   * 1 x phototransistor detects IR source
   * 3 x ultrasonic sensors detects walls and gauges distance to target
+
+  ![Robot picture](Robot.jpg)
