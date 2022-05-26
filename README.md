@@ -1,4 +1,5 @@
 # Autonomous VEX robot
+### Description and function: 
  Autonomous robot built with VEX kit components searches an area of 2.3 square meters for an IR source. Once the IR target is identified, the robot approaches and places an object on top of the target using a mechanical arm.
 ### Components: 
   * 1 x VEX controller
