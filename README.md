@@ -7,4 +7,4 @@
   * 1 x phototransistor detects IR source
   * 3 x ultrasonic sensors detects walls and gauges distance to target
 
-  ![Robot picture](Robot.jpg)
+  <img src="Robot.jpg" alt="Picture of Robot" width="50%"/>
